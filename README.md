@@ -1,2 +1,2 @@
-# first-repositories
+# pitomnik-dogs
 first-repositories
